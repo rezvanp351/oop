@@ -151,4 +151,20 @@ class Teacher(Father):
 - override methods
 - run the project
 
-You can copy these templates to build more classes easily.
+---
+## 📎 Author
+👩‍💻 **Created by: ❤️ by **Muhammad Aref Rezvan Panah**
+📅 **Year:** 2025  
+💬 **Language:** Python 3.10  
+🎯 **Purpose:** Teaching Python functions in a clear and beginner-friendly way.
+
+---
+
+## 💖 Support & Feedback
+If this repository helped you, please consider:
+- ⭐ **Starring** the repo  
+- 🗨️ **Commenting** your thoughts  
+- 📢 **Sharing** it with others learning Python  
+
+Your feedback motivates more free educational content!
+
